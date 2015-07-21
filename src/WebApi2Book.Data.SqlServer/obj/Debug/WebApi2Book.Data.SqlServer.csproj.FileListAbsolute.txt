@@ -1,0 +1,17 @@
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Data.SqlServer\bin\Debug\AutoMapper.Net4.dll
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Data.SqlServer\bin\Debug\WebApi2Book.Data.SqlServer.dll
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Data.SqlServer\bin\Debug\WebApi2Book.Data.SqlServer.pdb
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Data.SqlServer\bin\Debug\FluentNHibernate.dll
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Data.SqlServer\bin\Debug\Iesi.Collections.dll
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Data.SqlServer\bin\Debug\NHibernate.dll
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Data.SqlServer\bin\Debug\WebApi2Book.common.dll
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Data.SqlServer\bin\Debug\WebApi2Book.Data.dll
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Data.SqlServer\bin\Debug\WebApi2Book.common.pdb
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Data.SqlServer\bin\Debug\WebApi2Book.Data.pdb
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Data.SqlServer\bin\Debug\FluentNHibernate.pdb
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Data.SqlServer\bin\Debug\FluentNHibernate.xml
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Data.SqlServer\bin\Debug\Iesi.Collections.xml
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Data.SqlServer\bin\Debug\NHibernate.xml
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Data.SqlServer\obj\Debug\WebApi2Book.Data.SqlServer.csprojResolveAssemblyReference.cache
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Data.SqlServer\obj\Debug\WebApi2Book.Data.SqlServer.dll
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Data.SqlServer\obj\Debug\WebApi2Book.Data.SqlServer.pdb

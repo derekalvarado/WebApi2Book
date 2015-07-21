@@ -1,0 +1,51 @@
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\AutoMapper.Net4.dll
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\WebApi2Book.Web.Common.dll
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\WebApi2Book.Web.Common.pdb
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\Iesi.Collections.dll
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\log4net.dll
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\NHibernate.dll
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\Ninject.dll
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\Ninject.Web.Common.dll
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\WebApi2Book.common.dll
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\WebApi2Book.Data.dll
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\WebApi2Book.common.pdb
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\WebApi2Book.Data.pdb
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\Iesi.Collections.xml
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\log4net.xml
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\NHibernate.xml
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\Ninject.xml
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\Ninject.Web.Common.xml
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Common\obj\Debug\WebApi2Book.Web.Common.csprojResolveAssemblyReference.cache
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Common\obj\Debug\WebApi2Book.Web.Common.dll
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Common\obj\Debug\WebApi2Book.Web.Common.pdb
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\Newtonsoft.Json.dll
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\System.Net.Http.Formatting.dll
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\System.Web.Http.dll
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\System.Web.Http.WebHost.dll
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\Newtonsoft.Json.xml
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\System.Net.Http.Formatting.xml
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\System.Web.Http.xml
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Common\obj\Debug\WebApi2Book.Web.Common.csprojResolveAssemblyReference.cache
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Common\obj\Debug\WebApi2Book.Web.Common.dll
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Common\obj\Debug\WebApi2Book.Web.Common.pdb
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\WebApi2Book.Web.Common.dll
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\WebApi2Book.Web.Common.pdb
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\Iesi.Collections.dll
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\log4net.dll
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\NHibernate.dll
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\System.Web.Http.dll
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\WebApi2Book.common.dll
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\WebApi2Book.Data.dll
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\WebApi2Book.common.pdb
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\WebApi2Book.Data.pdb
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\Iesi.Collections.xml
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\log4net.xml
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\NHibernate.xml
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\System.Web.Http.xml
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\System.Web.Http.WebHost.xml

@@ -1,0 +1,75 @@
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Api\bin\WebApi2Book.Web.Api.dll
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Api\bin\WebApi2Book.Web.Api.pdb
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Api\bin\Microsoft.Web.Infrastructure.dll
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Api\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Api\bin\Newtonsoft.Json.dll
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Api\bin\System.Net.Http.Formatting.dll
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Api\bin\System.Web.Helpers.dll
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Api\bin\System.Web.Http.dll
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Api\bin\System.Web.Http.WebHost.dll
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Api\bin\System.Web.Mvc.dll
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Api\bin\System.Web.Razor.dll
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Api\bin\System.Web.WebPages.Deployment.dll
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Api\bin\System.Web.WebPages.dll
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Api\bin\System.Web.WebPages.Razor.dll
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Api\bin\WebApi2Book.common.dll
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Api\bin\WebApi2Book.Web.Api.Models.dll
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Api\bin\WebApi2Book.Web.Common.dll
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Api\bin\WebApi2Book.common.pdb
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Api\bin\WebApi2Book.Web.Api.Models.pdb
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Api\bin\WebApi2Book.Web.Common.pdb
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Api\bin\Newtonsoft.Json.xml
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Api\bin\System.Net.Http.Formatting.xml
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Api\bin\System.Web.Http.xml
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Api\bin\System.Web.Http.WebHost.xml
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Api\bin\System.Web.Helpers.xml
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Api\bin\System.Web.Mvc.xml
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Api\bin\System.Web.Razor.xml
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Api\bin\System.Web.WebPages.xml
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Api\bin\System.Web.WebPages.Deployment.xml
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Api\bin\System.Web.WebPages.Razor.xml
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Api\obj\Debug\WebApi2Book.Web.Api.csprojResolveAssemblyReference.cache
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Api\obj\Debug\WebApi2Book.Web.Api.dll
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Api\obj\Debug\WebApi2Book.Web.Api.pdb
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Api\bin\log4net.dll
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Api\bin\Ninject.dll
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Api\bin\Ninject.Web.Common.dll
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Api\bin\WebActivatorEx.dll
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Api\bin\log4net.xml
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Api\bin\Ninject.xml
+C:\MyProjects\WebApi2Book\src\WebApi2Book.Web.Api\bin\Ninject.Web.Common.xml
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Api\bin\WebApi2Book.Web.Api.dll
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Api\bin\WebApi2Book.Web.Api.pdb
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Api\bin\log4net.dll
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Api\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Api\bin\Newtonsoft.Json.dll
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Api\bin\System.Net.Http.Formatting.dll
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Api\bin\System.Web.Helpers.dll
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Api\bin\System.Web.Http.dll
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Api\bin\System.Web.Http.WebHost.dll
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Api\bin\System.Web.Mvc.dll
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Api\bin\System.Web.Razor.dll
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Api\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Api\bin\System.Web.WebPages.dll
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Api\bin\System.Web.WebPages.Razor.dll
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Api\bin\WebApi2Book.common.dll
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Api\bin\WebApi2Book.Web.Api.Models.dll
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Api\bin\WebApi2Book.Web.Common.dll
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Api\bin\WebApi2Book.common.pdb
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Api\bin\WebApi2Book.Web.Api.Models.pdb
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Api\bin\WebApi2Book.Web.Common.pdb
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Api\bin\log4net.xml
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Api\bin\Newtonsoft.Json.xml
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Api\bin\System.Net.Http.Formatting.xml
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Api\bin\System.Web.Http.xml
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Api\bin\System.Web.Http.WebHost.xml
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Api\bin\System.Web.Helpers.xml
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Api\bin\System.Web.Mvc.xml
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Api\bin\System.Web.Razor.xml
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Api\bin\System.Web.WebPages.xml
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Api\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Api\bin\System.Web.WebPages.Razor.xml
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Api\obj\Debug\WebApi2Book.Web.Api.csprojResolveAssemblyReference.cache
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Api\obj\Debug\WebApi2Book.Web.Api.dll
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Api\obj\Debug\WebApi2Book.Web.Api.pdb
