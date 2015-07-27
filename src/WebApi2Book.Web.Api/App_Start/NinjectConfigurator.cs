@@ -1,13 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
+﻿using log4net.Config;
 using Ninject;
-using WebApi2Book.common;
-using WebApi2Book.common.Logging;
-using log4net.Config;
+using WebApi2Book.Common;
+using WebApi2Book.Common.Logging;
 
-namespace WebApi2Book.Web.Api.App_Start
+namespace WebApi2Book.Web.Api
 {
     public class NinjectConfigurator
     {

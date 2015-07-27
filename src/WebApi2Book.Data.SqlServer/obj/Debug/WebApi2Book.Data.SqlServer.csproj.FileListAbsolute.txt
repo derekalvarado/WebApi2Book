@@ -15,3 +15,22 @@ C:\MyProjects\WebApi2Book\src\WebApi2Book.Data.SqlServer\bin\Debug\NHibernate.xm
 C:\MyProjects\WebApi2Book\src\WebApi2Book.Data.SqlServer\obj\Debug\WebApi2Book.Data.SqlServer.csprojResolveAssemblyReference.cache
 C:\MyProjects\WebApi2Book\src\WebApi2Book.Data.SqlServer\obj\Debug\WebApi2Book.Data.SqlServer.dll
 C:\MyProjects\WebApi2Book\src\WebApi2Book.Data.SqlServer\obj\Debug\WebApi2Book.Data.SqlServer.pdb
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Data.SqlServer\bin\Debug\AutoMapper.Net4.dll
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Data.SqlServer\bin\Debug\WebApi2Book.Data.SqlServer.dll
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Data.SqlServer\bin\Debug\WebApi2Book.Data.SqlServer.pdb
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Data.SqlServer\bin\Debug\FluentNHibernate.dll
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Data.SqlServer\bin\Debug\Iesi.Collections.dll
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Data.SqlServer\bin\Debug\NHibernate.dll
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Data.SqlServer\bin\Debug\WebApi2Book.Common.dll
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Data.SqlServer\bin\Debug\WebApi2Book.Data.dll
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Data.SqlServer\bin\Debug\log4net.dll
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Data.SqlServer\bin\Debug\WebApi2Book.Common.pdb
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Data.SqlServer\bin\Debug\WebApi2Book.Data.pdb
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Data.SqlServer\bin\Debug\FluentNHibernate.pdb
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Data.SqlServer\bin\Debug\FluentNHibernate.xml
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Data.SqlServer\bin\Debug\Iesi.Collections.xml
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Data.SqlServer\bin\Debug\NHibernate.xml
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Data.SqlServer\bin\Debug\log4net.xml
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Data.SqlServer\obj\Debug\WebApi2Book.Data.SqlServer.csprojResolveAssemblyReference.cache
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Data.SqlServer\obj\Debug\WebApi2Book.Data.SqlServer.dll
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Data.SqlServer\obj\Debug\WebApi2Book.Data.SqlServer.pdb

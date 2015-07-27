@@ -49,3 +49,8 @@ C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book
 C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\System.Net.Http.Formatting.xml
 C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\System.Web.Http.xml
 C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\AutoMapper.Net4.dll
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\Ninject.dll
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\Ninject.Web.Common.dll
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\Ninject.xml
+C:\Users\Derek\Documents\Visual Studio 2012\Projects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\Ninject.Web.Common.xml
